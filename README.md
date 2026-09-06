@@ -72,19 +72,6 @@ python -m http.server 8000
    https://<your-username>.github.io/<your-repo>/
    ```
 
-   The page will be live within a minute or two.
-
----
-
-## Files
-
-| File | Purpose |
-|---|---|
-| `index.html` | Deployment-ready copy of the listening study page |
-| `listening_page.html` | Original source file (preserved, do not delete) |
-| `README.md` | This file |
-| `CSE425_Project_GNN_BERT_Music_Context (1) (1).pdf` | Project report |
-
 ---
 
 ## Notes
